@@ -50,7 +50,8 @@ The top 5 most popular movie genres among viewers are identified as action, adve
 Analysis of data from 10 studios shows that half of the studios have a preference for action movies as their favorite genre, followed by drama, indicating a diverse range of genre preferences among studios shown in the graph below.
 ![image](https://user-images.githubusercontent.com/125445043/232317651-ebc91df6-212c-4c1f-97d8-ff5590518176.png)
 
-##Recommendations
+
+**Recommendations**
 
 Based on the analysis, the following recommendations are provided for Microsoft's new movie studio:
 
