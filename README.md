@@ -26,7 +26,7 @@ The analysis involved data preparation and utilization of Python libraries such 
 
 ## Conclusion
 
-The top 5 movie genres that tend to generate higher profits are identified as action, adventure, drama, comedy, and documentaries. However, it's important to note that some movies have multiple genres. Shown in graph below
+The top 5 movie genres that tend to generate higher profits are identified as action, adventure, drama, comedy, and documentaries. However, it's important to note that some movies have multiple genres. Shown in the graph below
 
 ![image](https://user-images.githubusercontent.com/125445043/232316703-fd9a8277-3158-41d9-a6e1-ca480bcf06ae.png)
 
@@ -44,13 +44,14 @@ Action and adventure movies have consistently ranked among the most profitable g
 ![image](https://user-images.githubusercontent.com/125445043/232317350-5da87a0c-6e1a-4eb4-979f-a66cc7d55d89.png)
 
 
-The top 5 most popular movie genres among viewers are identified as action, adventure, history, crime, and fantasy, indicating a strong audience interest in these types of movies. show in graph below
+The top 5 most popular movie genres among viewers are identified as action, adventure, history, crime, and fantasy, indicating a strong audience interest in these types of movies. show in the graph below
 ![image](https://user-images.githubusercontent.com/125445043/232317475-5c1154ef-bb86-4855-bb6f-57c97fc3bffe.png)
 
-Analysis of data from 10 studios shows that half of the studios have a preference for action movies as their favorite genre, followed by drama, indicating a diverse range of genre preferences among studios.
+Analysis of data from 10 studios shows that half of the studios have a preference for action movies as their favorite genre, followed by drama, indicating a diverse range of genre preferences among studios shown in the graph below.
 ![image](https://user-images.githubusercontent.com/125445043/232317651-ebc91df6-212c-4c1f-97d8-ff5590518176.png)
 
 ##Recommendations
+
 Based on the analysis, the following recommendations are provided for Microsoft's new movie studio:
 
 1. Consider focusing on action, adventure, and drama genres as they tend to generate higher profits.
