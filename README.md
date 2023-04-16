@@ -9,10 +9,10 @@ This project aims to provide Microsoft, who is entering the movie creation indus
 Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry. Your team is charged with exploring what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 The following key questions are addressed through analysis to enable Microsoft decision makers make an insight full decision:
 
-Which movie genre is the most profitable?
-Is there a correlation between movie budget and profitability?
-Which movie genre is the most popular among audiences?
-Among other studios, which movie genre is the most popular?
+1. Which movie genre is the most profitable?
+2. Is there a correlation between movie budget and profitability?
+3. Which movie genre is the most popular among audiences?
+4. Among other studios, which movie genre is the most popular?
 
 ## Data Understanding and Analysis
 
@@ -38,8 +38,8 @@ Analysis of data from 10 studios shows that half of the studios have a preferenc
 
 Based on the analysis, the following recommendations are provided for Microsoft's new movie studio:
 
-Consider focusing on action, adventure, and drama genres as they tend to generate higher profits.
-Among audiences action,adventure and drama are the most popular.
-Conduct further analysis and gather additional data to better understand the relationship between production budgets and profits in the movie industry.
-Studios prefer Action and Drama genre, Monitor and follow the genre preferences of other studios to stay competitive in the market.
+1. Consider focusing on action, adventure, and drama genres as they tend to generate higher profits.
+2. Among audiences action,adventure and drama are the most popular.
+3. Conduct further analysis and gather additional data to better understand the relationship between production budgets and profits in the movie industry.
+4. Studios prefer Action and Drama genre, Monitor and follow the genre preferences of other studios to stay competitive in the market.
 
