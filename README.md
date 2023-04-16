@@ -26,16 +26,31 @@ The analysis involved data preparation and utilization of Python libraries such 
 
 ## Conclusion
 
-The top 5 movie genres that tend to generate higher profits are identified as action, adventure, drama, comedy, and documentaries. However, it's important to note that some movies have multiple genres.
+The top 5 movie genres that tend to generate higher profits are identified as action, adventure, drama, comedy, and documentaries. However, it's important to note that some movies have multiple genres. Shown in graph below
 
-The analysis of profits and production budgets shows that while some low-budget movies may have higher profits, some high-budget movies may have low profits, indicating potential outliers and other factors influencing profitability. Further analysis and additional data may be necessary to draw conclusive insights.
+![image](https://user-images.githubusercontent.com/125445043/232316703-fd9a8277-3158-41d9-a6e1-ca480bcf06ae.png)
 
-Action and adventure movies have consistently ranked among the most profitable genres since 2010, indicating their popularity among audiences and their potential for generating high profits.
 
-The top 5 most popular movie genres among viewers are identified as action, adventure, history, crime, and fantasy, indicating a strong audience interest in these types of movies.
+
+
+
+The analysis of profits and production budgets shows that while some low-budget movies may have higher profits, some high-budget movies may have low profits, indicating potential outliers and other factors influencing profitability. Further analysis and additional data may be necessary to draw conclusive insights.shown in the graphs below.
+![image](https://user-images.githubusercontent.com/125445043/232317051-3cee4165-9aa2-49a4-bf98-347092f4ca60.png)
+![image](https://user-images.githubusercontent.com/125445043/232317100-4b342ec1-253c-4cc5-aa84-8ba24fc2cfe4.png)
+
+
+
+Action and adventure movies have consistently ranked among the most profitable genres since 2010, indicating their popularity among audiences and their potential for generating high profits. shown in the graph below.
+![image](https://user-images.githubusercontent.com/125445043/232317350-5da87a0c-6e1a-4eb4-979f-a66cc7d55d89.png)
+
+
+The top 5 most popular movie genres among viewers are identified as action, adventure, history, crime, and fantasy, indicating a strong audience interest in these types of movies. show in graph below
+![image](https://user-images.githubusercontent.com/125445043/232317475-5c1154ef-bb86-4855-bb6f-57c97fc3bffe.png)
 
 Analysis of data from 10 studios shows that half of the studios have a preference for action movies as their favorite genre, followed by drama, indicating a diverse range of genre preferences among studios.
+![image](https://user-images.githubusercontent.com/125445043/232317651-ebc91df6-212c-4c1f-97d8-ff5590518176.png)
 
+##Recommendations
 Based on the analysis, the following recommendations are provided for Microsoft's new movie studio:
 
 1. Consider focusing on action, adventure, and drama genres as they tend to generate higher profits.
